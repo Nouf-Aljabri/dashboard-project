@@ -1,6 +1,5 @@
 // Line Chart for Orders
 var ordersChart = document.getElementById("myAreaChart");
-console.log(ordersChart);
 
 // Bar Chart for Visitor
 var visitorChart = document.getElementById("myBarChart");
